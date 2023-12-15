@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository1"]
+	path = SubmoduleRepository1
+	url = https://github.com/voki-kastunova-h/SubmoduleRepository1
